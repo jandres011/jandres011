@@ -17,9 +17,7 @@
 
 
 
-💻 **Enfocado en Backend**, pero también con habilidades en **Frontend**  
-🤝 Me gusta **trabajar en equipo** y siempre busco ser **responsable y proactivo**  
-🚀 Apasionado por la tecnología, la arquitectura de software y el desarrollo eficiente  
+
 
 
 ---
