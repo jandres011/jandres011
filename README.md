@@ -4,10 +4,11 @@
   <a href="https://www.linkedin.com/in/juan-mosquera-nu%C3%B1ez-27a827232/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-right:15px;"/>
   </a>
-  
+  <a href="https://www.instagram.com/jandres.11?igsh=MTB1MmhoY3RoaXlxZw%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img width="40px" alt="Instagram" title="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new.png" style="margin-right:15px;"/>
+  </a> 
   <a href="mailto:jamn011020@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img width="40px" alt="Gmail" title="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-
   </a>
 </div>
 
