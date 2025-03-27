@@ -1,16 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+%C2%A1Hola%2C+soy+Juan+Andr%C3%A9s+Mosquera!++;%F0%9F%8E%93+Estudiante+de+Ingenier%C3%ADa+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+%C2%A1Hola%2C+soy+Juan+Andr%C3%A9s+Mosquera!++;%F0%9F%8E%93+Estudiante+de+Ing+de+Sistemas)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-mosquera-nu%C3%B1ez-27a827232/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin-right:20px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin-right:40px;"/>
   </a>
   
   <a href="https://www.instagram.com/jandres.11?igsh=MTB1MmhoY3RoaXlxZw%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" style="margin-right:20px;"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" style="margin-right:40px;"/>
   </a>
   
   <a href="mailto:jamn011020@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" style="margin-right:40px;"/>
   </a>
 </div>
 
