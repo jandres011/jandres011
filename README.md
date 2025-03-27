@@ -2,18 +2,17 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-mosquera-nu%C3%B1ez-27a827232/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin-right:40px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin: 0 15px;"/>
   </a>
   
   <a href="https://www.instagram.com/jandres.11?igsh=MTB1MmhoY3RoaXlxZw%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" style="margin-right:40px;"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" style="margin: 0 15px;"/>
   </a>
   
   <a href="mailto:jamn011020@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" style="margin-right:40px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" style="margin: 0 15px;"/>
   </a>
 </div>
-
 
 
 💻 **Enfocado en Backend**, pero también con habilidades en **Frontend**  
