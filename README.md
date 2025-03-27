@@ -5,6 +5,8 @@
     <img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-right:15px;"/>
   </a>
   
+  <a href="mailto:jamn011020@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img width="40px" alt="Gmail" title="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 
   </a>
 </div>
