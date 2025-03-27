@@ -1,11 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+%C2%A1Hola%2C+soy+Juan+Andr%C3%A9s+Mosquera!++;%F0%9F%8E%93+Estudiante+de+Ing+de+Sistemas)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-mosquera-nu%C3%B1ez-27a827232/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png"/></a>
-  <a href="https://www.instagram.com/t3chwithpao?igsh=dmU2ZXNqYTVkMDJx&utm_source=qr"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=32292&format=png"/></a>
-  <a href="jamn011020@gmail.com"><img width="32px" alt="Contact" title="Contact" src="https://img.icons8.com/?size=100&id=59835&format=png&color=0139ff"/></a>
-  <a href="https://www.instagram.com/jandres.11?igsh=MTB1MmhoY3RoaXlxZw%3D%3D&utm_source=qr" alt="Instagram" title="Instagram"><img width="32px" src="https://iconos8.es/icon/32323/instagram"/></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/juan-mosquera-nu%C3%B1ez-27a827232/" target="_blank" rel="noopener noreferrer">
+    <img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-right:15px;"/>
+  </a>
+  
+  <a href="https://www.instagram.com/jandres.11?igsh=MTB1MmhoY3RoaXlxZw%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer">
+    <img width="40px" alt="Instagram" title="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new.png" style="margin-right:15px;"/>
+  </a>
+  
+  <a href="mailto:jamn011020@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img width="40px" alt="Gmail" title="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+  </a>
+</div>
+
 
 
 💻 **Enfocado en Backend**, pero también con habilidades en **Frontend**  
